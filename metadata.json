@@ -1,0 +1,17 @@
+{
+  "name": "drscream-sysctl",
+  "version": "0.1.0",
+  "author": "drscream",
+  "summary": "Simple use of sysctl directives in Debian or Ubuntu",
+  "license": "BSD",
+  "source": "https://github.com/drscream/puppet-sysctl",
+  "project_page": "https://github.com/drscream/puppet-sysctl",
+  "issues_url": "https://github.com/drscream/puppet-sysctl/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
